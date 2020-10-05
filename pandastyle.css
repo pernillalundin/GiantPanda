@@ -11,3 +11,8 @@ img{
     width: 600px;
     margin: 4px auto;
 }
+
+h1{
+    font-size: 40px;
+    font-family: Georgia;
+}
