@@ -7,6 +7,11 @@ img{
     width: 100%;
 }
 
+p{
+    border: grey solid 5px;
+    padding: 5px;
+}
+
 .column {
     width: 600px;
     margin: 4px auto;
