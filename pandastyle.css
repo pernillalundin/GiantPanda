@@ -2,6 +2,7 @@ body{
     font-family: Arial;
     line-height: 25px;
     background-color: khaki;
+    margin: 0%;
 } 
 
 img{
@@ -13,9 +14,11 @@ img{
     margin: px auto;
     padding: 1px 40px 40px 40px;
     background-color: white;
+    border-left: solid 25px pink;
+    border-right: solid 25px pink;
 }
 
 h1{
-    font-size: 40px;
+    font-size: 30px;
     font-family: Georgia;
 }
