@@ -5,3 +5,8 @@ body{
 img{
     width: 100%;
 }
+
+.column {
+    width: 600px;
+    margin: 4px auto;
+}
