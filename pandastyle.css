@@ -1,6 +1,6 @@
 body{
     font-family: Arial;
-    line-height: 25px;
+    line-height: 25px;    
 } 
 
 img{
@@ -10,4 +10,5 @@ img{
 .column {
     width: 600px;
     margin: 4px auto;
+    border: dotted grey 10px;
 }
